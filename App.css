@@ -1,0 +1,52 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    list-style: none ;
+    display: flex;
+    gap: 15px;
+    font-size: 30px;
+   
+}
+button{
+    display: block;
+    width: 100px;
+    color: white;
+    background-color: red;
+    height: 50px;
+    font-size: 30px;
+    align-items: center;
+    margin-top:20px;
+}
+.body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid blue;
+    padding: 5px;
+}
+img{
+    width: 50%;
+    height: 50%;
+
+}
+.part1{
+    width: 50%;
+   
+    padding: 2px;
+}
+.part2{
+    width: 50%;
+}
+.btn{
+    display: flex;
+}
+.btn button{
+    width: 125px;
+  margin: 2px;
+}
+nav img{
+    height: auto;
+    width: auto;
+}
