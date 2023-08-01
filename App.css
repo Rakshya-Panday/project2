@@ -9,7 +9,7 @@ ul{
     font-size: 30px;
    
 }
-button{
+/* button{
     display: block;
     width: 100px;
     color: white;
@@ -18,7 +18,7 @@ button{
     font-size: 30px;
     align-items: center;
     margin-top:20px;
-}
+} */
 .body{
     display: flex;
     justify-content: space-between;

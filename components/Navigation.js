@@ -7,7 +7,7 @@
            <li><a>Menu</a></li>
             <li>Location</li>
             <li>About</li>
-            <li>Contact</li>
+            <li><a href="Contact.js">Contact</a></li>
            </ul>
            <button>Login</button>
           
